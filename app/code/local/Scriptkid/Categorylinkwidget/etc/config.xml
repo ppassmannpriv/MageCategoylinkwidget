@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<config>
+	<modules>
+		<Scriptkid_Categorylinkwidget>
+			<version>0.1.0</version>
+		</Scriptkid_Categorylinkwidget>
+	</modules>
+	<global>
+		<blocks>
+			<categorylinkwidget>
+				<class>Scriptkid_Categorylinkwidget_Block</class>
+			</categorylinkwidget>
+		</blocks>
+	</global>
+</config>

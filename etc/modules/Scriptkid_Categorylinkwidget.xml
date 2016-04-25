@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Scriptkid_Categorylinkwidget>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Scriptkid_Categorylinkwidget>
+    </modules>
+</config>

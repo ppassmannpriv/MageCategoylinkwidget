@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<widgets>
+<categorylinkwidget_categorylink type="categorylinkwidget/categorylink">
+  <name>Kategorie-Link</name>
+  <description type="desc">Widget um eine Kategorie als Link mit Bild und Info darzustellen</description>
+  <parameters>
+    <id_path translate="label">
+        <visible>1</visible>
+        <required>1</required>
+        <label>Category</label>
+        <type>label</type>
+        <helper_block>
+            <type>adminhtml/catalog_category_widget_chooser</type>
+            <data>
+                <button translate="open">
+                    <open>Select Category...</open>
+                </button>
+            </data>
+        </helper_block>
+        <sort_order>10</sort_order>
+    </id_path>
+
+  </parameters>
+</categorylinkwidget_categorylink>
+</widgets>
